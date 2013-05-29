@@ -15,7 +15,7 @@ Team One's London Clojure Dojo project at ThoughtWorks, Tuesday 28th May.
 (bloom-contains? populated-bloom "something")
 ;; true
 
-(bloom-contains? populated-bloom "something")
+(bloom-contains? populated-bloom "something else")
 ;; false
 ```
 
